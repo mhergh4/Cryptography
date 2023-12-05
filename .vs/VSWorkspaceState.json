@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Huffman",
-    "\\NewFolder"
+    "\\Feistel",
+    "\\Huffman"
   ],
-  "SelectedNode": "\\NewFolder\\main.cpp",
+  "SelectedNode": "\\Feistel",
   "PreviewInSolutionExplorer": false
 }
